@@ -1,0 +1,10 @@
+H2 URL = http://localhost:8080/h2-ui
+select * from PERSON;
+select * from  PERSON_PHONE_NUM;
+select * from PERSON_ADDRESSES;
+
+SWAGGER URL : http://localhost:8080/swagger-ui
+
+Using default security username : user
+
+Using default security password : you can take from log.
